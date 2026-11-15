@@ -38,6 +38,7 @@
 | [1029-two-city-scheduling](https://github.com/shruthigs083/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shruthigs083/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/shruthigs083/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [2747-count-zero-request-servers](https://github.com/shruthigs083/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -154,6 +157,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/shruthigs083/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -167,6 +171,7 @@
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shruthigs083/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -194,6 +199,7 @@
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shruthigs083/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/shruthigs083/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/shruthigs083/LeetCode/tree/master/1905-count-sub-islands) |
 ## Sliding Window
 |  |
@@ -245,4 +251,12 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/shruthigs083/LeetCode/tree/master/0126-word-ladder-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
