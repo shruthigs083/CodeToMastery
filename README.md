@@ -75,6 +75,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shruthigs083/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shruthigs083/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shruthigs083/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shruthigs083/LeetCode/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
@@ -126,6 +128,7 @@
 | [0695-max-area-of-island](https://github.com/shruthigs083/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shruthigs083/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shruthigs083/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -150,6 +153,7 @@
 | [0695-max-area-of-island](https://github.com/shruthigs083/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shruthigs083/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shruthigs083/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/shruthigs083/LeetCode/tree/master/0994-rotting-oranges) |
@@ -182,6 +186,7 @@
 | [0310-minimum-height-trees](https://github.com/shruthigs083/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/shruthigs083/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/shruthigs083/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shruthigs083/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shruthigs083/LeetCode/tree/master/0886-possible-bipartition) |
 | [1462-course-schedule-iv](https://github.com/shruthigs083/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -259,4 +264,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/shruthigs083/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shruthigs083/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
