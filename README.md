@@ -1,5 +1,3 @@
-# LeetCode
-<!---LeetCode Topics Start-->
 # LeetCode Solutions
 
 A structured collection of my **LeetCode problem solutions**, maintained to strengthen my understanding of Data Structures and Algorithms, improve problem-solving skills, and prepare for software engineering interviews.
