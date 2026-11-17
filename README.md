@@ -1,5 +1,99 @@
 # LeetCode
 <!---LeetCode Topics Start-->
+# LeetCode Solutions
+
+A structured collection of my **LeetCode problem solutions**, maintained to strengthen my understanding of Data Structures and Algorithms, improve problem-solving skills, and prepare for software engineering interviews.
+
+This repository documents my coding practice across different DSA topics, with each problem maintained in its own directory for easy navigation.
+
+## Repository Overview
+
+- Individual directories for solved LeetCode problems.
+- Problem directories named using the problem number and title.
+- Topic-wise organization for easier navigation.
+- A continuously updated collection of solutions.
+- Focus on algorithmic thinking, code clarity, and optimization.
+
+## Topics Covered
+
+The repository includes problems from the following areas:
+
+| Category | Concepts |
+|---|---|
+| Arrays & Strings | Array manipulation, string processing, matrix traversal |
+| Linked Lists | Node operations, linked list manipulation |
+| Greedy Algorithms | Interval problems, scheduling, optimization |
+| Sorting | Custom sorting, comparator-based ordering |
+| Dynamic Programming | State transitions, optimization |
+| Trees & Graphs | Graph traversal, connectivity, graph theory |
+| Breadth-First Search | Level-order traversal, shortest paths |
+| Depth-First Search | Recursive traversal, connected components |
+| Union-Find | Disjoint Set Union, connectivity |
+| Heaps | Priority Queues, efficient element selection |
+| Topological Sorting | Dependency ordering, DAG problems |
+| Shortest Path Algorithms | Dijkstra's algorithm, constrained shortest paths |
+| Backtracking | Exploring possible solutions |
+| Sliding Window | Efficient subarray and window-based techniques |
+| Binary Search | Search-space optimization |
+
+## Repository Structure
+
+Each problem is stored in a separate directory using the following naming convention:
+
+```text
+LeetCode/
+│
+├── 0001-two-sum/
+├── 0002-add-two-numbers/
+├── 0007-reverse-integer/
+├── 0045-jump-game-ii/
+├── 0055-jump-game/
+├── 0126-word-ladder-ii/
+├── 0127-word-ladder/
+│
+├── ... more problem directories
+│
+├── README.md
+└── stats.json
+```
+
+**Naming convention:** `problem-number-problem-title`
+
+This makes individual solutions easy to identify and locate.
+
+## Problem-Solving Approach
+
+My approach to solving problems focuses on:
+
+1. Understanding the problem statement and constraints.
+2. Identifying the relevant data structure or algorithm.
+3. Exploring possible approaches.
+4. Implementing an efficient solution.
+5. Evaluating time and space complexity.
+6. Improving the solution wherever possible.
+
+## Learning Objectives
+
+- Build strong foundations in Data Structures and Algorithms.
+- Improve logical reasoning and analytical thinking.
+- Understand and apply commonly used algorithms.
+- Develop efficient problem-solving techniques.
+- Prepare for technical interviews and software engineering placements.
+
+## Progress & Maintenance
+
+This repository is actively maintained and updated as I solve more problems and explore additional DSA concepts.
+
+The topic-wise problem index above helps track the range of concepts covered.
+
+## Connect
+
+- **GitHub:** [shruthigs083](https://github.com/shruthigs083)
+- **LeetCode:** [Shruthigs](https://leetcode.com/u/Shruthigs/)
+
+---
+
+*Consistent practice. Better problem-solving. Continuous improvement.*
 # LeetCode Topics
 ## Linked List
 |  |
